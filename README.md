@@ -32,7 +32,7 @@ Actualmente estoy lanzando mi marca personal: **Holy Dev**.
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bordon-9b3889248/)  
-📧 bruno.tuemail@ejemplo.com
+📧 brunobrodon75@gmail.com
 
 ---
 
