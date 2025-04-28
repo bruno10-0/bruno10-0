@@ -17,6 +17,7 @@ Actualmente estoy lanzando mi marca personal: **Holy Dev**.
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![Strapi](https://img.shields.io/badge/-Strapi-4945FF?style=flat&logo=strapi&logoColor=white)
 ![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 > También tengo experiencia en diseño, marketing y experiencia de usuario.
 
@@ -40,4 +41,3 @@ Actualmente estoy lanzando mi marca personal: **Holy Dev**.
 ## 🧠 Fun fact
 
 Me gusta resolver problemas complejos... pero también me río de bugs que me rompen la cabeza 🐛😅
-
