@@ -18,7 +18,9 @@ Actualmente estoy lanzando mi marca personal: **Holy Dev**.
 ![Strapi](https://img.shields.io/badge/-Strapi-4945FF?style=flat&logo=strapi&logoColor=white)
 ![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white
 > También tengo experiencia en diseño, marketing y experiencia de usuario.
 
 ---
